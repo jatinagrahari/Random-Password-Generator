@@ -7,7 +7,7 @@
 [![Vite](https://img.shields.io/badge/Build-Vite-%23646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-🔗 **[Live Demo](#)** • 🐛 **[Report Bug](https://github.com/jatinagrahari/Random-Password-Generator/issues)** • ⭐ **[GitHub](https://github.com/jatinagrahari/Random-Password-Generator)**
+ 🐛 **[Report Bug](https://github.com/jatinagrahari/Random-Password-Generator/issues)** • ⭐ **[GitHub](https://github.com/jatinagrahari/Random-Password-Generator)**
 
 ---
 
