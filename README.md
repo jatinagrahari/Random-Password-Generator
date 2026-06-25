@@ -120,7 +120,7 @@ const passwordGenerator = useCallback(() => {
 
 ### Password Generator UI
 
-![Screenshot](#)
+![Screenshot](https://raw.githubusercontent.com/jatinagrahari/Random-Password-Generator/refs/heads/main/src/assets/SS_1.png)
 
 </details>
 
